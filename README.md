@@ -1,3 +1,6 @@
+<div align="center">
+  <img  src="banner Victor.png" width="800" /></a>
+</div>
 <h1 align="center">Hi 👋, I'm Victor Santos</h1>
 <h3 align="center">I am a software developer</h3>
 
