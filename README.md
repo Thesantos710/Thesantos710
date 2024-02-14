@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Santos</h1>
 <h3 align="center">I am a software developer</h3>
 
+- ⭐ TheSantos ⭐
+- 💻 Software Developer
+- 🧑‍🏫 Estudiante de Ingenierría de Sistemas e Informática
 - 📫 How to reach me **vic.santos710@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
